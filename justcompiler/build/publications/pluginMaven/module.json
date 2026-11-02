@@ -1,0 +1,89 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "me.collumy",
+    "module": "justcompiler",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.8.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.4.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "justcompiler-1.0.0.jar",
+          "url": "justcompiler-1.0.0.jar",
+          "size": 457310,
+          "sha512": "b090b7f4cfaacb57092f0ceb43671ae33e9656dcda2ff75d16118105cd00a371725c0a5603833f5dac37cec5b8486ef256f31cad03d41e4f38d6c95aeac93cc0",
+          "sha256": "a80b1e9f916f941dbee088b25b9739a36644c10a4b17be24aef4dbc7253c7640",
+          "sha1": "49498df2aa91bf8910e319430efc201538013b5b",
+          "md5": "693a1bb73eb74c40113b92cc8853f053"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-serialization-json",
+          "version": {
+            "requires": "1.6.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.4.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "justcompiler-1.0.0.jar",
+          "url": "justcompiler-1.0.0.jar",
+          "size": 457310,
+          "sha512": "b090b7f4cfaacb57092f0ceb43671ae33e9656dcda2ff75d16118105cd00a371725c0a5603833f5dac37cec5b8486ef256f31cad03d41e4f38d6c95aeac93cc0",
+          "sha256": "a80b1e9f916f941dbee088b25b9739a36644c10a4b17be24aef4dbc7253c7640",
+          "sha1": "49498df2aa91bf8910e319430efc201538013b5b",
+          "md5": "693a1bb73eb74c40113b92cc8853f053"
+        }
+      ]
+    }
+  ]
+}
