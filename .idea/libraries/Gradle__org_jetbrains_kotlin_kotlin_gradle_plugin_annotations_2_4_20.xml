@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-annotations:2.4.20" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.kotlin" artifactId="kotlin-gradle-plugin-annotations" version="2.4.20" baseVersion="2.4.20" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-annotations/2.4.20/28b614745ea3135c2012a463f21035ab540b5878/kotlin-gradle-plugin-annotations-2.4.20.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-annotations/2.4.20/2731199fd976c190c0ee7de48879de6959979b61/kotlin-gradle-plugin-annotations-2.4.20-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

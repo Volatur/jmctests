@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.kotlin:kotlin-util-io:2.4.20" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.kotlin" artifactId="kotlin-util-io" version="2.4.20" baseVersion="2.4.20" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-util-io/2.4.20/2ff37a9402921337ac72720b8fa17a9ae2c7aee6/kotlin-util-io-2.4.20.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-util-io/2.4.20/7f84dd26e844a55274147c1024a70fe431ebb42a/kotlin-util-io-2.4.20-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
